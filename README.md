@@ -1,4 +1,5 @@
 #  Real-Time Sales Operations Dashboard — Automated Control Desk
+![Dashboard Preview](Dash.png)
 
 > Eliminated the need for a manual **control desk operator** by building a real-time dashboard that automatically reroutes agents across campaigns based on live performance metrics.
 
