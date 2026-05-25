@@ -48,7 +48,7 @@ Google Sheets API ─────┘          ↓
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### KPI Cards (real-time)
 - **Tabuladas** — confirmed sales from SQL
