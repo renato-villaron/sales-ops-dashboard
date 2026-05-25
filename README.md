@@ -1,10 +1,10 @@
-# 📊 Real-Time Sales Operations Dashboard — Automated Control Desk
+#  Real-Time Sales Operations Dashboard — Automated Control Desk
 
 > Eliminated the need for a manual **control desk operator** by building a real-time dashboard that automatically reroutes agents across campaigns based on live performance metrics.
 
 ---
 
-## 🧩 The Problem
+##  The Problem
 
 A telecom outbound sales operation running **17,000+ daily calls** across multiple supervisors and campaigns required constant manual intervention:
 
@@ -16,7 +16,7 @@ A telecom outbound sales operation running **17,000+ daily calls** across multip
 
 ---
 
-## ⚙️ Solution Overview
+##  Solution Overview
 
 A real-time HTML dashboard that:
 
@@ -36,7 +36,7 @@ Google Sheets API ─────┘          ↓
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Tool |
 |---|---|
@@ -68,7 +68,7 @@ Google Sheets API ─────┘          ↓
 
 ---
 
-## 🤖 Rerouting Automation
+##  Rerouting Automation
 
 The system monitors the following metrics in real time and triggers agent reassignment automatically:
 
@@ -84,7 +84,7 @@ This replaced the work of a **dedicated control desk operator** monitoring these
 
 ---
 
-## 📈 Results
+##  Results
 
 | Metric | Value |
 |---|---|
@@ -96,7 +96,7 @@ This replaced the work of a **dedicated control desk operator** monitoring these
 
 ---
 
-## 💡 Key Takeaways
+##  Key Takeaways
 
 - **SQL + Sheets in one view** — bridging structured DB data with operational spreadsheets is a common enterprise pain point, solved here cleanly
 - **Projection engine** — forecasting end-of-day numbers from current pace + historical conversion is directly applicable to any sales operation
@@ -104,7 +104,7 @@ This replaced the work of a **dedicated control desk operator** monitoring these
 
 ---
 
-## 📬 Contact
+##  Contact
 
-Built by [Your Name] · [LinkedIn] · [Email]  
+Built by [Renato Villaron] · joserenatovillaron@gmail.com · **[LinkedIn](https://linkedin.com/in/renato-villaron)**   
 Open to remote opportunities in Revenue Operations, Sales Analytics, and Data Engineering.
